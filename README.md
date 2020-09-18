@@ -11,11 +11,11 @@ Good luck!
 
 Key   |  Event
 ----- | ------
-<kbd>esc</kbd> | izlazak iz igre
-<kbd>D</kbd>   | Kretanje na desnu stranu
-<kbd>A</kbd>   | Kretanje na levu stranu
-<kbd>P</kbd>   | Pauza (kada je igra u toku) / start (kada je igra pauzirana)
-<kbd>R</kbd>   | Restart igre
+<kbd>esc</kbd> | Leaving the game
+<kbd>D</kbd>   | Moving to the right
+<kbd>A</kbd>   | Moving to the left
+<kbd>P</kbd>   | Pause (during the game) / start (when paused)
+<kbd>R</kbd>   | Restart the game
 
 Installation:  
 Clone this project  
